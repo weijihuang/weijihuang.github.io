@@ -1,3 +1,8 @@
 remote_theme: niklasbuschmann/contrast
+
+title: "佶"
+title_icon: "/assets/icons/佶.svg"
+favicon: "/assets/icons/佶.svg"
+
 plugins:
   - jekyll-remote-theme
