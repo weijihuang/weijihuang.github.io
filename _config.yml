@@ -3,8 +3,21 @@ remote_theme: niklasbuschmann/contrast
 title: "佶"
 title_icon: "/assets/icons/佶.svg"
 favicon: "/assets/icons/佶.svg"
+author: "Weiji Huang"
+description: "Made with strong desire to share"
 
-show_excerpts: true        # show article excerpts on the home page
+# Layout
+show_excerpts: true        
+
+footer_middle: "🐤"
+
+external:
+  - {title: Mail, icon: envelope, url: "mailto:m@weiji.one"}
+  - {title: Github, icon: github, url: "https://github.com/weijihuang"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/weijihuang/"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/heyu_hwj"}
+  - {title: Weibo, icon: weibo, url: "https://weibo.com/u/1801721322"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 plugins:
   - jekyll-remote-theme
